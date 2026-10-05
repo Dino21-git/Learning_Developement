@@ -13,6 +13,8 @@ public class HomePage extends GenericWrapper {
 		super(driver);
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
+
+
 	}
 
 	@FindBy(xpath = "//span[@data-cy='closeModal']")

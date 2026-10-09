@@ -16,6 +16,8 @@ public class HomePage extends GenericWrapper {
 //Testing-1 Checking for the correction//
 		//For your reference//
 
+		//Testing 2 Teaching Purpose//
+
 	}
 
 	@FindBy(xpath = "//span[@data-cy='closeModal']")

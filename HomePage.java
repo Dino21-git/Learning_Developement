@@ -15,7 +15,7 @@ public class HomePage extends GenericWrapper {
 		PageFactory.initElements(driver, this);
 
 
-	}
+	}// Learning to edit//
 
 	@FindBy(xpath = "//span[@data-cy='closeModal']")
 	WebElement CROSS_ICON;

@@ -16,9 +16,7 @@ public class HomePage extends GenericWrapper {
 //Testing-1 Checking for the correction//
 		//For your reference//
 
-		//Testing 4 Teaching Purpose//
-
-		//testing 5 Checking...........//
+		//Testing 4 Teaching Purpose//	//testing 5 Checking...........//
 
 	}
 

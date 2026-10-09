@@ -1,4 +1,4 @@
-package web.pageobjects;
+'package web.pageobjects;
 
 import genericwrappers.GenericWrapper;
 import org.openqa.selenium.WebDriver;
